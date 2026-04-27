@@ -58,8 +58,8 @@ O **FocusTrigger** interrompe qualquer atividade no computador e só libera a te
 
 ```bash
 |-- FocusTrigger.py      # Script principal (Lógica, UI e Integração com IA)
-|-- setup_startup.bat     # Automatiza a instalação e configuração no Windows
-|-- desinstalar.bat         # Encerra processos e limpa registros do sistema
+|-- setup_startup.bat    # Automatiza a instalação e configuração no Windows
+|-- desinstalar.bat      # Encerra processos e limpa registros do sistema
 |-- requirements.txt     # Bibliotecas necessárias (pystray, Pillow, requests)
-|-- apikey.txt               # Armazena localmente sua chave da Anthropic
-└── README.md   # Documentação do projeto
+|-- apikey.txt           # Armazena localmente sua chave da Anthropic
+└── README.md            # Documentação do projeto
